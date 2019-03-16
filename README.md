@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Trabajo-08
+
+En este trabajo se hace un juego de Gato (Tic Tac Toe) Utilizando React
+de acuerdo a este tutorial:
+https://reactjs.org/docs/hello-world.html
+>>>>>>> 66cac2e5b94762a445a00cd582229a69cb0d7527
